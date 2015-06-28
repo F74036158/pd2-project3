@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>blue.png</file>
+        <file>frameg.jpg</file>
+        <file>green.png</file>
+        <file>red.png</file>
+        <file>yellow.png</file>
+        <file>blue_choose.png</file>
+        <file>green_choose.png</file>
+        <file>red_choose.png</file>
+        <file>yellow_choose.png</file>
+        <file>blue_bomb.png</file>
+        <file>blue_bomb_choose.png</file>
+        <file>blue_column.png</file>
+        <file>blue_column_choose.png</file>
+        <file>blue_row.png</file>
+        <file>blue_row_choose.png</file>
+        <file>chocolate.png</file>
+        <file>chocolate_choose.png</file>
+        <file>green_bomb.png</file>
+        <file>green_bomb_choose.png</file>
+        <file>green_column.png</file>
+        <file>green_column_choose.png</file>
+        <file>green_row.png</file>
+        <file>green_row_choose.png</file>
+        <file>red_bomb.png</file>
+        <file>red_bomb_choose.png</file>
+        <file>red_column.png</file>
+        <file>red_column_choose.png</file>
+        <file>red_row.png</file>
+        <file>red_row_choose.png</file>
+        <file>yellow_bomb.png</file>
+        <file>yellow_bomb_choose.png</file>
+        <file>yellow_column.png</file>
+        <file>yellow_column_choose.png</file>
+        <file>yellow_row.png</file>
+        <file>yellow_row_choose.png</file>
+        <file>nocandy.png</file>
+        <file>gameoverg.jpg</file>
+        <file>wing.jpg</file>
+        <file>star_no.png</file>
+        <file>star_yes.png</file>
+    </qresource>
+</RCC>
